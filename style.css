@@ -1,0 +1,40 @@
+.app{
+	width: 400px;
+	padding: 20px;
+	background-image: url(giphy.gif);
+	background-size: cover;
+	background-position: center;
+	color: white;
+	text-align: center;
+	border: 2px solid white;
+	border-radius: 10px;
+	margin: auto;
+	margin-top: 200px;
+}
+body{
+	background: linear-gradient(to right, black, #048acf)
+}
+.app button{
+	margin-top: 8px;
+	width: 155px;
+	border-radius: 15px;
+	outline: none;
+	background: black;
+	color: white;
+	padding: 7px;
+	-webkit-box-shadow: 5px 5px 10px -2px #000000; 
+box-shadow: 5px 5px 10px -2px #000000;
+}
+input{
+	margin-top: 8px;
+	width: 155px;
+	border-radius: 15px;
+	outline: none;
+	background: white;
+	color: black;
+	padding: 7px;
+	-webkit-box-shadow: 5px 5px 10px -2px #000000; 
+box-shadow: 5px 5px 10px -2px #000000;
+text-align: center;
+
+}
